@@ -551,6 +551,12 @@
       "hash": "QmYfvQoJCUTCJ54Rog3zWSCDWAkwLWFTMKzcwaNMpXYSQT",
       "name": "go-libp2p-quic-transport",
       "version": "0.2.3"
+    },
+    {
+      "author": "stebalien",
+      "hash": "QmQKUCtsLJJHvqejxsDM3Nk3VqFFCg7JR7gPmnL2GW6RHs",
+      "name": "go-require-gx",
+      "version": "1.0.0"
     }
   ],
   "gxVersion": "0.10.0",
