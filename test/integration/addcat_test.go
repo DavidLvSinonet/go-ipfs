@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	random "github.com/ipfs/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random"
+	random "github.com/jbenet/go-random"
 
 	"github.com/ipfs/go-ipfs/core"
 	coreunix "github.com/ipfs/go-ipfs/core/coreunix"

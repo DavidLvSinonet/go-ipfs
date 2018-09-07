@@ -16,7 +16,7 @@ import (
 	coreunix "github.com/ipfs/go-ipfs/core/coreunix"
 	fsrepo "github.com/ipfs/go-ipfs/repo/fsrepo"
 
-	homedir "github.com/ipfs/go-ipfs/Godeps/_workspace/src/github.com/mitchellh/go-homedir"
+	homedir "github.com/mitchellh/go-homedir"
 
 	fsnotify "github.com/fsnotify/fsnotify"
 	process "github.com/jbenet/goprocess"

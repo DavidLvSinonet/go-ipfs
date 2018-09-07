@@ -10,8 +10,8 @@ import (
 	"path"
 	"testing"
 
-	"github.com/ipfs/go-ipfs/Godeps/_workspace/src/github.com/jbenet/go-random"
 	"github.com/ipfs/go-ipfs/thirdparty/unit"
+	"github.com/jbenet/go-random"
 
 	config "github.com/ipfs/go-ipfs-config"
 )

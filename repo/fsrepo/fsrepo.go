@@ -18,7 +18,7 @@ import (
 	mfsr "github.com/ipfs/go-ipfs/repo/fsrepo/migrations"
 	dir "github.com/ipfs/go-ipfs/thirdparty/dir"
 
-	"github.com/ipfs/go-ipfs/Godeps/_workspace/src/github.com/mitchellh/go-homedir"
+	"github.com/mitchellh/go-homedir"
 
 	ds "github.com/ipfs/go-datastore"
 	measure "github.com/ipfs/go-ds-measure"
